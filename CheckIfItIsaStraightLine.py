@@ -10,7 +10,6 @@ class Solution:
         x2=coordinates[1][0]
         y2=coordinates[1][1]
         
-
         res=True
 
         for i in range(2,len(coordinates)):
